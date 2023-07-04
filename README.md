@@ -25,3 +25,4 @@
 
 
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/d1c1dccc-75b2-4cd7-a426-03bb1ee497a0)
+![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/82977e8e-9000-407f-829c-399af206c621)
