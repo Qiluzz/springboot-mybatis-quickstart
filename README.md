@@ -15,3 +15,6 @@
 
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/a9ab57ca-6ead-42ea-88db-5a7ed89a2689)
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/e2522c4d-c550-4f5d-b362-9d7397499f51)
+
+
+![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/b0d5c193-afc5-41fe-9b99-2fd4c56b2a7e)
