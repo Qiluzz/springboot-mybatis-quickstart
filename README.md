@@ -31,3 +31,5 @@
 
 ##### AOP案例
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/bfc36cc1-ace6-4da5-a285-08f7c3247d97)
+
+![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/2140e17b-a087-479f-9335-d87fa88b705b)
