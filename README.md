@@ -29,13 +29,14 @@
 
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/54431e38-aba4-4f69-9f0c-5ef212ed3a7a)
 
-##### AOP案例
+### AOP案例
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/bfc36cc1-ace6-4da5-a285-08f7c3247d97)
 
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/2140e17b-a087-479f-9335-d87fa88b705b)
 
-#### Bean
+### Bean
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/951a7180-bc8a-4b54-a704-d0b8e852527f)
-![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/4e5b7e01-a340-4fb7-8fee-1c4d9b977e91)
+![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/1ea888bb-9ddc-430a-b8e6-878b0ef11f4a)
+
 
 
