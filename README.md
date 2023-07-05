@@ -28,3 +28,6 @@
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/82977e8e-9000-407f-829c-399af206c621)
 
 ![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/54431e38-aba4-4f69-9f0c-5ef212ed3a7a)
+
+##### AOP案例
+![image](https://github.com/Qiluzz/springboot-mybatis-quickstart/assets/4120789/bfc36cc1-ace6-4da5-a285-08f7c3247d97)
